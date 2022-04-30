@@ -24,24 +24,15 @@ Skills -  Programming Languages
 
 
 
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Hussein hassan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HusseinAlswasy&theme=dark&show_icons=true)
 
 - 🔭 I’m currently working on **Mobile application devopler**
 
 - 🌱 I’m currently learning **Flutter , Graphic designer**
 
-- 📫 How to reach me **01096694296hud@gmail.com**
+- 📫 How to reach me **01096694296hud@gmail.com** whatsapp 01064047084
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
