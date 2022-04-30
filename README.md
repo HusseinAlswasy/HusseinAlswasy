@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein hassan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">study in fuclty of computer scince in zagazig university</h3>
 
 I'm Hussein Hassan from Eygpt,and I do content on Design and Devlopment.I really enjoy learninig languages and framworks like cross platform mobile development.
 I engoy wirframing ui,ux and design in general, you can contact with me https://www.facebook.com/hussein.alsuzy or whatsapp 01064047084.
@@ -13,9 +13,9 @@ I engoy wirframing ui,ux and design in general, you can contact with me https://
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hussein alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein alswasy" height="30" width="40" /></a>
-<a href="https://fb.com/hussein alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein alswasy" height="30" width="40" /></a>
-<a href="https://instagram.com/hussein alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein alswasy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Hussein Alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein alswasy" height="30" width="40" /></a>
+<a href="https://fb.com/Hussein Alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein alswasy" height="30" width="40" /></a>
+<a href="https://instagram.com/Hussein Alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein alswasy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
