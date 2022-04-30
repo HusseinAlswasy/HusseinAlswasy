@@ -16,10 +16,9 @@ Skills
 
 Programming Languages
 
-- java ![image](https://user-images.githubusercontent.com/86569848/166118289-2c57a9f2-29a6-4c6c-a19b-51f38f41a45a.png
+- java
 
-- flutter  ![image](https://user-images.githubusercontent.com/86569848/166118322-1636ce90-b56e-4ede-a42c-e418c8274a7f.png)
-
+- flutter
 - 
 
 
