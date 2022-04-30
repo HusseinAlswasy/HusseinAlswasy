@@ -17,9 +17,12 @@ Skills
 Programming Languages
 
 - java
-
 - flutter
-- 
+- Dart
+- firbase
+- photoshop
+- illsutrator
+- ui,ux
 
 
 
