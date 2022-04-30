@@ -21,6 +21,10 @@ Skills -  Programming Languages
 - photoshop
 - illsutrator
 - ui,ux
+![image](https://user-images.githubusercontent.com/86569848/166118772-832e94a0-1a17-4e4d-9174-c43f0ae41145.png)
+![image](https://user-images.githubusercontent.com/86569848/166118781-90997bec-442e-4767-8dbd-0ee6ade30583.png)
+![image](https://user-images.githubusercontent.com/86569848/166118786-f2b032de-adc6-41d7-844a-d4ca43e58e57.png)
+
 
 
 
