@@ -12,9 +12,7 @@ Work
 
 📫 How to reach me 01096694296hud@gmail.com
 
-Skills
-
-Programming Languages
+Skills -  Programming Languages
 
 - java
 - flutter
