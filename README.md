@@ -3,7 +3,6 @@
 
 I'm Hussein Hassan from Egypt, and I create content on Design and Development. I enjoy learning languages and frameworks like cross-platform mobile development with Flutter and Dart. I also love wireframing UI/UX and design in general. 
 
-<p align="center">
 ![Hussein’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HusseinAlswasy&theme=dark&show_icons=true)
 
 
@@ -11,9 +10,8 @@ I'm Hussein Hassan from Egypt, and I create content on Design and Development. I
 - 🌱 I’m currently learning **Teaching Assistant in Computer Science**
 - 📫 How to reach me **husseinalswasy@gmail.com** or WhatsApp: +201064047084
   
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinAlswasy&theme=dark&layout=compact)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Hussein Alswasy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein alswasy" height="30" width="40" /></a>
